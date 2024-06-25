@@ -1,0 +1,18 @@
+types of selector:
+        1) simple selector
+        2)combinator selector
+        3)pseudo class
+        4)pseudo element
+        5)attribute selector
+
+1)simple selector:
+            Element,id,class,grouping,universal
+
+2)combinator selector:
+            which is used to point out the html element based on the 
+            
+    a)descendent selector -  it applies to all the childs, denoted by spaces.
+
+    b)Child selector - it is denoted by + */
+
+    c)adjecent siibling selector - 
